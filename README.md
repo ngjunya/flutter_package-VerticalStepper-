@@ -1,16 +1,16 @@
-# Vertical Stepper with Dotted Line in Flutter :+1:
+# vertical_stepper
 
-Vertical Stepper is a useful widget to display a process from one to another.
+A new Flutter package project.
 
-## ScreenShots
+## Getting Started
 
-<img width="402" alt="Screenshot 2021-09-22 at 1 15 19 PM" src="https://user-images.githubusercontent.com/65483068/134288040-cdb45096-9565-424b-994f-cb71441e472a.png">
+This project is a starting point for a Dart
+[package](https://flutter.dev/developing-packages/),
+a library module containing code that can be shared easily across
+multiple Flutter or Dart projects.
 
-<img width="405" alt="Screenshot 2021-09-22 at 1 22 53 PM" src="https://user-images.githubusercontent.com/65483068/134288073-d172411f-9aca-43cd-acff-2291d949cdd5.png">
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.dev/docs), which offers tutorials, 
+samples, guidance on mobile development, and a full API reference.
 
-# Usage
-
-To use this package, add ```vertical_stepper``` as a dependency into your project's ```pubspec.yaml``` file.
-
-
-
+Testing testing 

@@ -1,8 +1,7 @@
 name: vertical_stepper
 description: A new Flutter package project.
 version: 0.0.1
-author: Ng Jun Ya <ngjunya2@gmail.com> 
-homepage:
+homepage: https://github.com/ngjunya/flutter_package-VerticalStepper-
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
